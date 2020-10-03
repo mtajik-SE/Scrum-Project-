@@ -1,0 +1,16 @@
+1.	As a library admin, I want to make an account in the system, So I could log in and access into the system 
+2.	As a library admin, I want to add books to our system to keep track of our library books. 
+3.	As a library admin, I want to issue a book to a user, so I know which users have the book. 
+4.	As a library admin, I want the users to be friendly to learn and interact more efficiently.
+5.	As a library Admin, I want to see the list of books issued to users, so I know which books are not available at the time. 
+6.	As a library admin, I want to know the due dates for the books, so I notify users to return them.
+7.	As library admin, I want to retrieve information who took a particular book and which books are available in the library so I track all the books. 
+8.	As a library admin, I want to update the details about a particular, so I can have all the accurate information related to the books.
+9.	As a library admin, I want to delete a book when they are lost or outdated, so I can have an accurate number of books.
+10.	As a library admin, I want to add users to our library database, so we could issue them a book or use our services.
+11.	As a user, I want to have a membership account in the library database, so I check-in and check-out books/magazines.
+12.	As a library admin, I want to categorize the books based on their genres to search for them faster.
+13.	As a library admin, I want to apply a fine for a user who checks-in a book late, so they return it on time
+14.	As a library admin, I wan to search for a book, so I can access it faster and easier.
+15.	As a library admin, I want to delete a user when they cancel their membership with us, so I could keep track of our real customers.
+16.	As a library admin, I want to have a centrazlied database for my library, so I could retrieve information and manage them.
